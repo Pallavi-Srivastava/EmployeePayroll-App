@@ -5,7 +5,7 @@ salary.addEventListener('input', function() {
     output.textContent = salary.value;
 });
 
-document.getElementById("submitButton").onclick = function() {
+document.getElementById("submit").onclick = function() {
     let employee = new EmployeePayroll();
     employee.name = document.getElementById("name").value;
     employee.picture = document.querySelector('input[name = profile]:checked').value;
