@@ -14,7 +14,7 @@ text.addEventListener('input', function() {
     else textError.textContent = "Invalid first name ";
 });
 
-document.getElementById("submitButton").onclick = function() {
+document.getElementById("submit").onclick = function() {
     let employee = new EmployeePayroll();
     employee.name = document.getElementById("name").value;
     employee.picture = document.querySelector('input[name = profile]:checked').value;
