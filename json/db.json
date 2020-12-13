@@ -1,0 +1,53 @@
+{
+  "employee": [
+    {
+      "_name": "Raj Srivastava",
+      "_gender": "male",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "id": 1,
+      "_picture": "../assets/profile-images/Ellipse -2.png"
+    },
+    {
+      "_name": "Ravi Singh",
+      "_gender": "male",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "id": 2,
+      "_picture": "../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "_name": "Pallavi Srivastava",
+      "_gender": "female",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "id": 3,
+      "_picture": "../assets/profile-images/Ellipse -4.png"
+    },
+    {
+      "_name": "Raghav Singh",
+      "_gender": "female",
+      "_department": [
+        "Sales",
+        "HR"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "_picture": "../assets/profile-images/Ellipse -4.png",
+      "id": 4
+    }
+  ]
+}
