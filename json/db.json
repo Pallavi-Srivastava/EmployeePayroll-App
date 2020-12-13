@@ -1,0 +1,56 @@
+{
+  "employee": [
+    {
+      "_name": "Raj Srivastava",
+      "_gender": "Male",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "60000",
+      "_startDate": "2019-12-31T18:30:00.000Z",
+      "_notes": "",
+      "id": 1,
+      "_picture": "../assets/profile-images/Ellipse -3.png",
+      "_note": "Add it"
+    },
+    {
+      "_name": "Ravi Singh",
+      "_gender": "Male",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "60000",
+      "_startDate": "2016-08-18T18:30:00.000Z",
+      "_notes": "",
+      "id": 2,
+      "_picture": "../assets/profile-images/Ellipse -3.png",
+      "_note": "Add it"
+    },
+    {
+      "_name": "Pallavi Srivastava",
+      "_gender": "Female",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "60000",
+      "_startDate": "2018-03-28T18:30:00.000Z",
+      "_notes": "",
+      "id": 3,
+      "_picture": "../assets/profile-images/Ellipse -4.png",
+      "_note": "Add it here"
+    },
+    {
+      "_name": "Raghav Singh",
+      "_gender": "female",
+      "_department": [
+        "Sales",
+        "Egieering"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "_picture": "../assets/profile-images/Ellipse -4.png",
+      "id": 4
+    }
+  ]
+}
